@@ -1,2 +1,2 @@
-# Comparison-of-Classical-Recurrent-and-Transformer-Based-Models
-Comparison of Classical, Recurrent, and Transformer-Based Models on Humanitarian Category Classification of Disaster Tweets
+# Comparison of Classical, Recurrent, and Transformer-Based Models on Humanitarian Category Classification of Disaster Tweets
+We trained three classical machine learning models: Logistic Regression, Random Forest, Naive Bayes, Six recurrent neural networks: SimpleRNN, LSTM, GRU, and their bidirectional counterparts, and a transformer model: BERT on three different hyperparameter. We then chose the best hyperparameter setting for all ten of them and evaluated them on the test set for a comparative analysis.
